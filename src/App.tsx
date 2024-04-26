@@ -1,6 +1,5 @@
 import './App.css';
 import styled from 'styled-components';
-import Logos from './logo.svg';
 
 
 function App() {
